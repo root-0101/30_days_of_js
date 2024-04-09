@@ -7,7 +7,7 @@ Welcome to my 30-day JavaScript project challenge! This repository contains 30 J
 
 - The fundamentals of HTML, CSS, and JavaScript
 - Various concept of JavaScript
-- DOM Manipulation<br>
+  - DOM Manipulation<br>
   - Event Handling <br>
   - Asynchronous JavaScript<br>
   - API Integration<br>
