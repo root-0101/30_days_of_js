@@ -1,7 +1,7 @@
-# 30_days_of_js
+# j_projects
 
 ### What's Inside: 
-Welcome to my 30-day JavaScript project challenge! This repository contains 30 JavaScript projects that I created as part of my journey to improve my JavaScript skills. Each project is designed to cover different aspects of JavaScript programming, from basic concepts to more advanced topics.
+Welcome to my JavaScript projects challenge! This repository contains JavaScript projects that I created as part of my journey to improve my JavaScript skills. Each project is designed to cover different aspects of JavaScript programming, from basic concepts to more advanced topics.
 
 ---
 
